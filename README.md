@@ -1,3 +1,6 @@
+https://medium.com/@mithunmk93/algorithm-behind-splitwises-debt-simplification-feature-8ac485e97688
+
+
 # Java Library: Data Structure and Algorithm Implementations
 
 1) Sorted List - An AVL Tree based implementation of Balanced Binary Search Tree(BST).
